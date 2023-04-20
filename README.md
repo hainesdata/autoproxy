@@ -10,6 +10,32 @@ Currently, this runs in a Python environment. For now, dependencies must be inst
 ## Usage
 Simply replace `us` in the last line `enable_proxy('us')` to your desired proxy region. Expects one of the following values:
 ```
-all, us, id, br, kh, ua, mx, de, th, ar, cn, mn, ru, tr, rs, pl, co, vn, ng, kr, in, bd, cl, fr, bg, it, sg
+all
+us
+id
+br
+kh
+ua
+mx
+de
+th
+ar
+cn
+mn
+ru
+tr
+rs
+pl
+co
+vn
+ng
+kr
+in
+bd
+cl
+fr
+bg
+it
+sg
 ```
-Then run~
+Then run!
